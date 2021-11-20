@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "song": "Jobane Tala",
+        "artists": "Bilash Chakraborty || K.$.#.N feat. Yogi",
+        "img": "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/253418353_429382422130254_6844769284806617613_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFMkaePknFBP5HEIRZKixTSGN8-gQ5g1pUY3z6BDmDWlfe1zAMAuU6fekJXhdotxlXD3ZJxVv2w15-u8bs3QjM4&_nc_ohc=MJ7sowvBhvwAX_A3Qo1&_nc_ht=scontent.fdac31-1.fna&oh=97271103d99858de7c06ddc4c313bece&oe=619E3FD8",
+        "music": "Vrishi",
+        "spotify": "https://open.spotify.com/album/1o9AFKWAHGgAg1OmYpq7R1?si=rztuz-P8R2m2-OGR4n288w",
+        "youtube": "https://www.youtube.com/channel/UCFM-13HG-2u7xTiyidHBJFw"
+      },
+      {
+        "id": 2,
+        "song": "KHG Cypher Vol.1",
+        "artists": "Bilash Chakraborty || HRT || K.$.#.N || VriShi || Yogi",
+        "img": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/186520828_312609603807537_6209622172958062564_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeH6AFt_n0XhGZPM93BGHI1jnQwOPCmCjCGdDA48KYKMIUCycYLk_v61q3c3eA4zsyt8IlMj3nEZvt4AVJjbhJiC&_nc_ohc=soNvJQ03X28AX8b0Gc0&_nc_ht=scontent.fdac31-1.fna&oh=4e1a902a7a619ba9ad1553fb3683da1c&oe=61BF09FE",
+        "music": "Vrishi",
+        "spotify": "https://open.spotify.com/track/07fNo4XEaEGkAfr58fxldp?si=af18e16e9b234e0b",
+        "youtube": "https://www.youtube.com/watch?v=aVLgUrrSJRo"
+      },
+      {
+        "id": 3,
+        "song": "Puira Hoilam Chaii",
+        "artists": "Bilash Chakraborty || VriShi",
+        "img": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/206743130_345449690523528_7001654331857799878_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGdgFXI8ds--GCWxEuyQOHKobeJDWhnWs2ht4kNaGdazV6xejaBErAgRzangvhrj1BUedgxUyO36UP61OLqDzBl&_nc_ohc=KU9dJGhm4gYAX9IqzzN&_nc_ht=scontent.fdac31-1.fna&oh=528c7f522867a2156d1370ec5079b12e&oe=61BCEB50",
+        "music": "Vrishi",
+        "spotify": "https://open.spotify.com/track/1OK7OirlZF9IEViBTjtTgA?si=fbb37feda5f4478e",
+        "youtube": "https://www.youtube.com/watch?v=vbRvgSnqGd8"
+      },
+      {
+        "id": 4,
+        "song": "Bangla Boom",
+        "artists": "Bilash Chakraborty || VriShi",
+        "img": "https://scontent.fdac31-1.fna.fbcdn.net/v/t1.6435-9/141189820_236161664785665_1919307274016288664_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeErEoLy6cjk478AAQBlA-CpHaiYdMzAUn0dqJh0zMBSfVZ4EbNRuOBkWN1WjLT4oSb_3UvfnZ2YMgqrFRbPmI0H&_nc_ohc=F9rW--kTLRAAX_oNFL7&_nc_ht=scontent.fdac31-1.fna&oh=55c252580fe0346791af34b5076ca06d&oe=61BF60DA",
+        "music": "Vrishi",
+        "spotify": "https://open.spotify.com/track/3PW1hqQr525dClRsgzhBkT?si=b1f5d6f87d8b4dc5",
+        "youtube": "https://www.youtube.com/watch?v=IXaD0Zoe1qE"
+      }
+      
+]
