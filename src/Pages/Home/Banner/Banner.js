@@ -1,9 +1,10 @@
 import React from 'react';
+import './Banner.css';
 
 const Banner = () => {
     return (
-        <div className="banner"> 
-            <img style={{opacity:"0.8",width:"100%",height:"100%" }}  className=' banner'  src="https://media.istockphoto.com/photos/music-mixer-picture-id622064544?b=1&k=20&m=622064544&s=170667a&w=0&h=aZ4agAIXFkSyC8ArpgtXwyFj6GR6rKFm5FtZEXuFZtU="/>
+        <div> 
+        <h1 style={{color:'white', fontFamily: 'Righteous', fontSize:'100px'}}>KTwonRecords</h1>
         </div>
     );
 };

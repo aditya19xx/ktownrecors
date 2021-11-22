@@ -11,9 +11,9 @@ const NewReleases = () => {
     }, [])
   return (
     <div style={{ margin: "5%"}}>
-      <h1 className="new-releases-header">New Releases</h1>
+      <h1 style={{color: "white", fontSize: "50px"}} className="new-releases-header">New Releases</h1>
       <div>
-        <Row xs={1} md={2} className="g-4">
+        <Row style={{color:'white'}} xs={1} md={2} className="g-4">
            {
                newReleases.map((newRelease) => (
                    <NewRelease newRelease={newRelease} ></NewRelease>

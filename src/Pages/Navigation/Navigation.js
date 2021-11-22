@@ -6,7 +6,7 @@ import "./Navigation.css";
 
 const Navigation = () => {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="" variant="light">
       <Container>
         <Navbar.Brand>
           {" "}
@@ -14,7 +14,7 @@ const Navigation = () => {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="navbar">
+          <Nav  className="navbar">
             <NavLink to="/home">Home</NavLink>
             <NavLink to="/newreleases">New Releases</NavLink>
             <NavLink to="/artists">Our Artists</NavLink>
